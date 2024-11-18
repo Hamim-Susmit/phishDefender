@@ -4,3 +4,7 @@ pandas
 numpy
 google-api-python-client
 scikit-learn
+matplotlib
+seaborn
+plotly
+textblob

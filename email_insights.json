@@ -1,0 +1,27 @@
+{
+    "basic_stats": {
+        "total_emails": 25,
+        "unique_senders": 23,
+        "date_range": "2024-11-16 00:00:00 to 2024-11-16 00:00:00"
+    },
+    "risk_analysis": {
+        "high_risk_emails": 0,
+        "suspicious_domains": 25,
+        "average_risk_score": 50.0
+    },
+    "categories": {
+        "Other": 13,
+        "Promotions": 10,
+        "Transactions": 2
+    },
+    "engagement": {
+        "emails_with_links": 15,
+        "reply_rate": 0.0,
+        "average_word_count": 303.56
+    },
+    "sentiment": {
+        "positive_emails": 9,
+        "negative_emails": 1,
+        "neutral_emails": 15
+    }
+}
